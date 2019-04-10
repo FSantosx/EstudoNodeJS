@@ -1,0 +1,11 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "tutorial de criação de um servidor",
+  "main": "index.js",
+  "author": "Fabio Santos",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
